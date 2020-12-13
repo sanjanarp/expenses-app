@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248368712721",
+    "firebase_url": "https://fir-messaging-a0226.firebaseio.com",
+    "project_id": "fir-messaging-a0226",
+    "storage_bucket": "fir-messaging-a0226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248368712721:android:eb616a1e7e10eec772f5b0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_expenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248368712721-q3t7kgmv2drietiscmc5fdnv4b5a41mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX95_Gxshw1KpJdvtgsgGOWMJ3gE5lcgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248368712721-q3t7kgmv2drietiscmc5fdnv4b5a41mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
